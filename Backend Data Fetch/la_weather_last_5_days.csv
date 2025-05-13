@@ -1,0 +1,6 @@
+datetime_utc,datetime_la,temperature_C,feels_like_C,humidity_%,dew_point_C,pressure_hPa,clouds_%,visibility_m,wind_speed_mps,wind_deg,wind_gust_mps,weather_main,weather_description
+2025-04-26T08:49:00,2025-04-26T01:49:00,11.09,10.13,72,6.24,1028,92,10000,2.49,235,3.16,Clouds,overcast clouds
+2025-04-25T08:49:00,2025-04-25T01:49:00,12.76,12.18,80,9.4,1022,61,10000,2.1,190,2.69,Clouds,broken clouds
+2025-04-24T08:49:00,2025-04-24T01:49:00,12.76,12.26,83,9.95,1024,90,10000,1.84,145,2.01,Clouds,overcast clouds
+2025-04-23T08:49:00,2025-04-23T01:49:00,12.7,12.19,83,9.89,1023,39,10000,1.52,171,1.75,Clouds,scattered clouds
+2025-04-22T08:49:00,2025-04-22T01:49:00,14.96,14.47,75,10.57,1014,0,10000,1.51,195,1.4,Clear,clear sky
