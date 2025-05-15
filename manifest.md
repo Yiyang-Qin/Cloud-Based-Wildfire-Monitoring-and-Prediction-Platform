@@ -1,15 +1,3 @@
-<<<<<<< HEAD
-EE547
-
-Group 2
-
-Yiyang Qin
-
-Yifan Hu
-
-Ke Wang
-
-=======
 ## Course:
 EE 547
 
@@ -20,4 +8,3 @@ EE 547
 
 ## BrightSpace Group Number:
 No 2
->>>>>>> 43b7074dc79b7fbc455d3f8f2bb939c1a9d52753
